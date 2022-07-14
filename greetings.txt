@@ -1,0 +1,3 @@
+persin greeting:
+سلام
+حالت چطوره؟
