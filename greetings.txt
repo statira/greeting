@@ -15,7 +15,12 @@ ghatar
 oman
 bahrain
 
+<<<<<<< HEAD
 english country:
 britain
 usa
 canada
+=======
+arabic food:
+ghelieh mahi
+>>>>>>> arbic_country
