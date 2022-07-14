@@ -8,3 +8,9 @@ how are u?
 spanish greeting:
 Hola
 ¿cómo estás?
+
+arabic country:
+emirat
+ghatar
+oman
+bahrain
