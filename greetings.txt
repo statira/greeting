@@ -14,3 +14,6 @@ emirat
 ghatar
 oman
 bahrain
+
+arabic food:
+ghelieh mahi
