@@ -4,3 +4,7 @@ persin greeting:
 english greeting:
 hi
 how are u?
+
+spanish greeting:
+Hola
+¿cómo estás?
