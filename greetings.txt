@@ -1,9 +1,10 @@
 persin greeting:
 سلام
 حالت چطوره؟
+خوبم مرسی
 english greeting:
-hi
-how are you?
+hello
+how are u?
 
 spanish greeting:
 Hola
@@ -15,5 +16,10 @@ ghatar
 oman
 bahrain
 
+english country:
+britain
+usa
+canada
 arabic food:
 ghelieh mahi
+>>>>>>> arbic_country
