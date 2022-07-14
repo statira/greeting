@@ -1,3 +1,6 @@
 persin greeting:
 سلام
 حالت چطوره؟
+english greeting:
+hi
+how are u?
