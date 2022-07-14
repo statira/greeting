@@ -3,7 +3,7 @@ persin greeting:
 حالت چطوره؟
 english greeting:
 hi
-how are u?
+how are you?
 
 spanish greeting:
 Hola
